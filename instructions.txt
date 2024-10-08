@@ -1,0 +1,8 @@
+This file is created on succesful git add , commit and push:
+instructions to be followed
+>>first I created a new git PAT 
+>> the created a new public branch to clone my project to
+>> then I specifically opend the git bash
+>>I copied http link and used it to clone my repo for my local machine
+>>:
+  >>git clone https//<account-name>:gitPAT@gitrepo/repo.
