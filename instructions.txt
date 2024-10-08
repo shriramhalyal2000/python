@@ -6,3 +6,4 @@ instructions to be followed
 >>I copied http link and used it to clone my repo for my local machine
 >>:
   >>git clone https//<account-name>:gitPAT@gitrepo/repo.
+  >>always use a new PAT for new repo for that specific user
