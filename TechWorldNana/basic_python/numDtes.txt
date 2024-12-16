@@ -1,0 +1,1 @@
+we have basically variables and datatypes in python
