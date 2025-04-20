@@ -15,3 +15,11 @@ def multiplication(num1, num2):
 def division(num1, num2):
     result=num1/num2
     print(f"{result} is ecpected division number")
+
+print("calculation performs based on two numericals and performs basic mathamatic operations")
+num1=float(input("Enter the first number:\n"))
+num2 =float(input("Enter the second number:\n"))
+
+operators=input("choose operators from thees Addition, Subtraction, Multiplication, Division")
+
+if operators==""
