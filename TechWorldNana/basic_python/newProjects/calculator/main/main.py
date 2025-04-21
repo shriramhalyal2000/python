@@ -20,6 +20,4 @@ print("calculation performs based on two numericals and performs basic mathamati
 num1=float(input("Enter the first number:\n"))
 num2 =float(input("Enter the second number:\n"))
 
-operators=input("choose operators from thees Addition, Subtraction, Multiplication, Division")
-
-if operators==""
+operators=input("choose operators from thees \nAddition, \nSubtraction, \nMultiplication, \nDivision")
