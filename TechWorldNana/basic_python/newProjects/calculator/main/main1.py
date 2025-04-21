@@ -1,6 +1,6 @@
 # functional module for calculator program
 # function for addition
-def add(x, y):
+def sum(x, y):
     return x+y
 # function for subtraction
 def sub(x, y):
