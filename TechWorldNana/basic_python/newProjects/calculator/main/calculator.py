@@ -16,7 +16,7 @@ def div(x, y):
 print("Welcome to calculator")
 print("Available operations from these options:\n 1.Addition, \n2.Subtraction, \3.Multiplication, \4.Division")
 while True:
-    choice=input("Choose your pick: \n1., \t2., \t3., \t4. \n")
+    choice = input("Choose your pick: \n1., \t2., \t3., \t4. \n")
     if choice in "1, 2, 3, 4":
         try:
             n1=float(input("Please enter the first number :\n"))
