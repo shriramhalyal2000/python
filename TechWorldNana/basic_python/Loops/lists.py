@@ -1,8 +1,10 @@
 # lists with loops
 
 fruits=["apple", "pineapple", "custard", "grapes"]
-value=fruits.index(fruits)
 for i in fruits:
     print(i)
-    i +=" "+ i
-    print(i)
+    # i +=" "+ i
+    # print(i)
+    print(fruits.index(i))
+
+# trying indexing
